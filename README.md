@@ -89,4 +89,4 @@ upload: ./index.html to s3://c220889a5570634l16836192t1w1000786058-samplebucket-
 - Troubleshooting Python dependency errors (`pip3 install`)
 
 ## Notes
-This project was built as part of a hands-on AWS training exercise to compare two development environment options — AWS CloudShell (lightweight, terminal-only) and a full VS Code IDE (graphical editor, file browser, integrated terminal) — before choosing a workflow for future cloud development work.
+This project was built as part of a hands-on AWS training exercise to compare two development environment options. AWS CloudShell (lightweight, terminal-only) and a full VS Code IDE (graphical editor, file browser, integrated terminal). Before choosing a workflow for future cloud development work.
